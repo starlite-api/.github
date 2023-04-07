@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/litestar-org/branding/blob/5c46ce93092faa36d0ba572f931b5d579ae75ad3/assets/Branding%20-%20SVG%20-%20Transparent/Logo%20-%20Banner%20-%20Inline%20-%20Light.svg#gh-light-mode-only" alt="Starlite Logo - Light" width="100%" height="auto" />
-  <img src="https://github.com/litestar-org/branding/blob/5c46ce93092faa36d0ba572f931b5d579ae75ad3/assets/Branding%20-%20SVG%20-%20Transparent/Logo%20-%20Banner%20-%20Inline%20-%20Dark.svg#gh-dark-mode-only" alt="Starlite Logo - Dark" width="100%" height="auto" />
-</p>
-
 # Starlite has been renamed to Litestar 
 
 
