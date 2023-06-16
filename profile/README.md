@@ -31,7 +31,7 @@ Please join us on the new GitHub organization - [@litestar-org](https://github.c
 All Litestar projects are subject to the [Code of Conduct][conduct]. Please review this to know how to interact with us.
 
 ### Community Links
-[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/litestar?label=r%2FStarlite&logo=reddit)](https://reddit.com/r/litestar)
+[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/litestarapi?label=r%2FStarlite&logo=reddit)](https://reddit.com/r/litestarapi)
 [![Discord](https://img.shields.io/discord/919193495116337154?color=blue&label=chat%20on%20discord&logo=discord)](https://discord.gg/X3FJqy8d2j)
 [![Matrix](https://img.shields.io/badge/%5Bm%5D%20chat%20on%20Matrix-bridged-blue)](https://matrix.to/#/#starlitespace:matrix.org)
 
